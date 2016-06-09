@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.eclipsesource.minimal-json:minimal-json:0.9.4" type="repository">
+    <properties maven-id="com.eclipsesource.minimal-json:minimal-json:0.9.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eclipsesource/minimal-json/minimal-json/0.9.4/minimal-json-0.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eclipsesource/minimal-json/minimal-json/0.9.4/minimal-json-0.9.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
